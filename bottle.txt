@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello this is branch yash
+=======
+
+>>>>>>> abhi
 wassup
 thandya panyachi bottle
 garam panyachi bottle
